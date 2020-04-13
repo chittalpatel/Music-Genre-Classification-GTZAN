@@ -1,0 +1,3 @@
+model,val_acc,test_acc
+SVC,0.7111,0.7200
+XGB,0.5678,0.6900
